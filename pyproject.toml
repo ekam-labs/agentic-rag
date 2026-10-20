@@ -1,5 +1,5 @@
 [project]
-name = "agentic-rag"
+name = "agentic-rag-kit"
 version = "0.1.0"
 description = "A stateful RAG workflow for retrieval, answer validation, and iterative refinement."
 readme = "README.md"
