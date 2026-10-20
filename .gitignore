@@ -1,0 +1,22 @@
+# Local virtual environments and environment variables
+.venv/
+.env
+.env.*
+!.env.example
+
+# Python cache and test output
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Requested local-only test files
+/tests/
+
+# Build and packaging output
+build/
+dist/
+*.egg-info/
+
+.rag_test_cache
