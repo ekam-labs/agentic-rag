@@ -39,7 +39,7 @@ flowchart TD
 ## Installation
 
 ```bash
-pip install agentic-rag
+pip install agentic-rag-kit
 ```
 
 ## Usage
